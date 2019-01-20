@@ -22,7 +22,7 @@ Kindly **visit** the following links to check out my **blog**, **portfolio** or 
 
 <h2 id="todo-list">Todo:</h2>
 
-- [ ] Create a proper landing page.
-- [ ] Add Animations.
+- [ ]  Create a proper landing page.
+- [ ]  Add Animations.
 
 <a href="https://github.com/Navneet-Suresh/navneet-suresh.github.io/blob/master/LICENSE.txt"><img alt="Creative Commons License" style="border-width:0" class="growOnHover" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> <i>unless stated otherwise.</i> Hosted on <a href="https://pages.github.com"><i class="growOnHover fab fa-github"></i></a>
