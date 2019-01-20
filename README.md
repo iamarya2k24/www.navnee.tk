@@ -2,7 +2,7 @@
 
 <head>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
-  <link rel="shortcut icon" href="/assets/favicons/favicon.ico">
+  <link rel="shortcut icon" href="https://blog.ddraffft.in/assets/favicons/favicon.png">
 </head>  
 
 This is _placeholder page_ for the **ddraffft.in** domain.
