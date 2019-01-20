@@ -8,12 +8,21 @@ This is _placeholder page_ for the **ddraffft.in** domain.
 
 ## Introduction:
 
+<kbd><img src='https://blog.ddraffft.in/assets/favicons/favicon-196x196.png'/></kbd>
+
 ### My name is [Navneethakrishnan](https://www.instagram.com/nav.kris).
+
+[![Issues](https://img.shields.io/github/issues/Navneet-Suresh/www.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/issues/?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link) [![License](https://img.shields.io/github/license/Navneet-Suresh/www.ddraffft.in.svg?style=flat-square)](https://github.com/Navneet-Suresh/navneet-suresh.github.io/blob/master/LICENSE.md?utm_source=Links-Website&utm_medium=badge&utm_campaign=One-bio-link)
 
 Kindly **visit** the following links to check out my **blog**, **portfolio** or **links** to my online profiles.
 
 1. [Draft Blog](https://blog.ddraffft.in).
 2. [My Photography portfolio](https://photography.ddraffft.in)
 3. [My Links](https://ahref.ddraffft.in)
+
+<h2 id="todo-list">Todo:</h2>
+
+- [ ] Create a proper landing page.
+- [ ] Add Animations.
 
 <a href="https://github.com/Navneet-Suresh/navneet-suresh.github.io/blob/master/LICENSE.txt"><img alt="Creative Commons License" style="border-width:0" class="growOnHover" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> <i>unless stated otherwise.</i> Hosted on <a href="https://pages.github.com"><i class="growOnHover fab fa-github"></i></a>
