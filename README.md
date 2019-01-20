@@ -1,7 +1,5 @@
 # www.ddraffft.in
 
-Landing page for the domain.
-
 ## Introduction:
 
 This is _placeholder_ page for the **ddraffft.in** domain.
