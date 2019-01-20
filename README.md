@@ -17,5 +17,4 @@ Kindly **visit** the following links to check out my **blog**, **portfolio** or 
 2. [My Photography portfolio](https://photography.ddraffft.in)
 3. [My Links](https://ahref.ddraffft.in)
 
-<a href="https://github.com/Navneet-Suresh/navneet-suresh.github.io/blob/master/LICENSE.txt"><img alt="Creative Commons License" style="border-width:0" class="growOnHover" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> <i>unless stated otherwise.</i>
-<br>Hosted on <a href="https://pages.github.com"><i class="growOnHover fab fa-github"></i></a>
+<a href="https://github.com/Navneet-Suresh/navneet-suresh.github.io/blob/master/LICENSE.txt"><img alt="Creative Commons License" style="border-width:0" class="growOnHover" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a> <i>unless stated otherwise.</i>Hosted on <a href="https://pages.github.com"><i class="growOnHover fab fa-github"></i></a>
