@@ -1,12 +1,15 @@
 # Draft
 
 <head>
+  <title>Draft - Landing page</title>
   <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 </head>  
 
+This is _placeholder page_ for the **ddraffft.in** domain.
+
 ## Introduction:
 
-This is _placeholder_ page for the **ddraffft.in** domain.
+### My name is [Navneethakrishnan](https://www.instagram.com/nav.kris).
 
 Kindly **visit** the following links to check out my **blog**, **portfolio** or **links** to my online profiles.
 
