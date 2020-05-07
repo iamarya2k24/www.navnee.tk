@@ -8,5 +8,6 @@ Kindly **visit** the following links to check out my **blog**, **portfolio** or 
 2. [My Photography portfolio](https://i.navnee.tk/photography/)
 3. [My Web Links](https://ahref.n4vn33t.com)
 4. [My Artworks](https://i.navnee.tk/artworks/)
+5. [OpenPGP Fingerprints and XMPP Info](https://i.navnee.tk/OMEMO-PGP-Fingerprint-Info.txt)
 
 Proudly Hosted on <a href="https://pages.github.com">Github</a>
